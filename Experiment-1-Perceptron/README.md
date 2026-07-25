@@ -83,3 +83,21 @@ pip install numpy matplotlib
 ## Conclusion
 
 This experiment shows that a Single Layer Perceptron can solve linearly separable problems such as AND and OR gates. However, it fails for non-linear problems such as XOR, motivating the need for Multi Layer Perceptrons.
+
+## Additional Task
+
+An additional experiment was performed to analyze logical gate classification using a perceptron.
+
+Implemented:
+
+- AND Gate
+- OR Gate
+- NOT Gate
+- XOR Gate analysis
+
+The experiment demonstrates the limitation of a Single Layer Perceptron on non-linear problems such as XOR.
+
+Additional files:
+
+- `Perceptron_Logical_Gates.ipynb`
+- `Additional_Task_Report.pdf`

@@ -98,3 +98,14 @@ pip install numpy matplotlib scikit-learn
 ## Conclusion
 
 This experiment demonstrates that Multi Layer Perceptrons overcome the limitations of Single Layer Perceptrons by using hidden layers and non-linear activation functions. The XOR experiment confirms that MLPs can learn complex non-linear relationships that cannot be solved using simple linear classifiers.
+
+## Additional Task
+
+An additional XOR classification experiment was performed using a Multi Layer Perceptron.
+
+The model uses hidden layers and nonlinear activation to solve the XOR problem, which cannot be solved by a Single Layer Perceptron.
+
+Additional files:
+
+- `MLP_XOR.ipynb`
+- `Additional_Task_Report.pdf`
